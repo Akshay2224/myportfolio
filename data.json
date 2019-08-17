@@ -3,24 +3,24 @@
     "title": "Data Science and Big Data Enthusiast",
     "intro": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
     "skills": [{
-            "title": "Skill 1",
+            "title": "Data Science",
             "rating": "92"
         },
         {
-            "title": "Skill 2",
+            "title": "C++",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
+            "title": "Big Data",
             "rating": "85"
         },{
-            "title": "Skill 1",
+            "title": "Pyhton",
             "rating": "90"
         }
     ],
     "contact": {
         "location": "Lovely Professional University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "phone": "8219571905",
+        "email": "akshaykhn7@gmail.com"
     }
 }
