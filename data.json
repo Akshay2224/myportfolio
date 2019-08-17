@@ -1,10 +1,10 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Akshay Khan",
+    "title": "Data Science and Big Data Enthusiast",
+    "intro": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
     "skills": [{
             "title": "Skill 1",
-            "rating": "90"
+            "rating": "92"
         },
         {
             "title": "Skill 2",
@@ -19,7 +19,7 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
+        "location": "Lovely Professional University",
         "phone": "xxxxxxxxxx",
         "email": "xxxxxx@xxxx.xxx"
     }
